@@ -4,3 +4,4 @@ if age == 19:
     print("Your in second year")
 else:
     print("Your in third year")
+print("Hey u there thank you for attending today's git session")
